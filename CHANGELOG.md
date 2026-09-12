@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/kdpa-llc/mcp-compression-proxy/compare/v1.1.0...v1.1.1) (2026-09-12)
+
+### Bug Fixes
+
+* **deps:** refresh vulnerable proxy dependencies ([#58](https://github.com/kdpa-llc/mcp-compression-proxy/issues/58)) ([35d1047](https://github.com/kdpa-llc/mcp-compression-proxy/commit/35d1047718c3f38fc117b1c498a1f676c4f3ea08))
+
 ## [1.1.0](https://github.com/kdpa-llc/mcp-compression-proxy/compare/v1.0.3...v1.1.0) (2026-09-04)
 
 ### Features
