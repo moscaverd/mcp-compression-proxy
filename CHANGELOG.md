@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/kdpa-llc/mcp-compression-proxy/compare/v1.1.1...v1.1.2) (2026-09-13)
+
+### Documentation
+
+* align package description with gateway capabilities ([#59](https://github.com/kdpa-llc/mcp-compression-proxy/issues/59)) ([4365d0d](https://github.com/kdpa-llc/mcp-compression-proxy/commit/4365d0d05362fe643ec709cb6b81c4fed4f3e664))
+
 ## [1.1.1](https://github.com/kdpa-llc/mcp-compression-proxy/compare/v1.1.0...v1.1.1) (2026-09-12)
 
 ### Bug Fixes
